@@ -48,8 +48,8 @@
 npm run dev
 ```
 
-브라우저에서 `http://localhost:5173`으로 접속하여 애플리케이션을 확인할 수 있습니다.
-https://pokemon-4unm.vercel.app/ vercel이용하여 배포도 완료
+```브라우저에서 `http://localhost:5173`으로 접속하여 애플리케이션을 확인할 수 있습니다.
+https://pokemon-4unm.vercel.app/ vercel이용하여 배포도 완료.```
 
 ### 빌드
 
