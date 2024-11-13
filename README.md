@@ -49,6 +49,7 @@ npm run dev
 ```
 
 브라우저에서 `http://localhost:5173`으로 접속하여 애플리케이션을 확인할 수 있습니다.
+https://pokemon-4unm.vercel.app/ vercel이용하여 배포도 완료
 
 ### 빌드
 
@@ -100,7 +101,7 @@ npm run build
 
 ```
 
-### 설명
+설명
 - 개요: 나만의 포켓몬 도감을 만들어보기.
 - 설치 및 실행 방법: npm run dev. 또는 yarn dev 로 실행
 - 브랜치 구조: 각 브랜치의 용도와 목적을 설명하여 학습에 도움이 되도록 합니다.
